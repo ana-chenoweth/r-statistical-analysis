@@ -7,15 +7,6 @@ Este proyecto es un tablero interactivo desarrollado en **R** con **Shiny** que 
 
 ---
 
-## Funcionalidades principales
-
-- Exploración dinámica de casos confirmados de COVID-19 por año.
-- Análisis estadístico por edad, sexo y comorbilidades.
-- Gráficos interactivos (barras, histogramas, boxplots, pastel).
-- Mapa con geolocalización de casos por municipio.
-- Filtros para segmentar la información en tiempo real.
-
----
 
 ## Visualizaciones del sistema
 
@@ -35,6 +26,15 @@ Este proyecto es un tablero interactivo desarrollado en **R** con **Shiny** que 
 
 ---
 
+## Funcionalidades principales
+
+- Exploración dinámica de casos confirmados de COVID-19 por año.
+- Análisis estadístico por edad, sexo y comorbilidades.
+- Gráficos interactivos (barras, histogramas, boxplots, pastel).
+- Mapa con geolocalización de casos por municipio.
+- Filtros para segmentar la información en tiempo real.
+
+---
 
 ## Tecnologías y herramientas utilizadas
 
