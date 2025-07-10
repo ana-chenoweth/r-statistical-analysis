@@ -45,19 +45,19 @@ Proyecto_Estadistica-main/
 
 ### Panel de estadísticas
 
-![Panel estadístico](https://github.com/ana-chenoweth/r-statistical-analysis/assets/README_IMAGES/stats_panel1.png)
+![Panel estadístico](assets/stats_panel1.png)
 
-![Diagrama de Barras](https://github.com/ana-chenoweth/r-statistical-analysis/assets/README_IMAGES/stats_panel2.png)
+![Diagrama de Barras](assets/stats_panel2.png)
 
-![Diagrama de Barras por Sexo](https://github.com/ana-chenoweth/r-statistical-analysis/assets/README_IMAGES/stats_panel3.png)
+![Diagrama de Barras por Sexo](assets/stats_panel3.png)
 
-![Diagrama Pastel](https://github.com/ana-chenoweth/r-statistical-analysis/assets/README_IMAGES/stats_panel4.png)
+![Diagrama Pastel](assets/stats_panel4.png)
 
-![Diagrama Cajas](https://github.com/ana-chenoweth/r-statistical-analysis/assets/README_IMAGES/stats_panel5.png)
+![Diagrama Cajas](assets/stats_panel5.png)
 
 ### Mapa interactivo
 
-![Mapa de casos](https://github.com/ana-chenoweth/r-statistical-analysis/assets/README_IMAGES/mapa_casos.png)
+![Mapa de casos](assets/mapa_casos.png)
 
 ---
 
