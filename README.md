@@ -17,6 +17,25 @@ Este proyecto es un tablero interactivo desarrollado en **R** con **Shiny** que 
 
 ---
 
+## Visualizaciones del sistema
+
+### Panel de estadísticas
+<p align="center">
+    <img src="assets/stats_panel1.png" alt="Panel estadístico" width="400">
+    <img src="assets/stats_panel2.png" alt="Diagrama de Barras" width="400">
+    <img src="assets/stats_panel3.png" alt="Diagrama de Barras por Sexo" width="400">
+    <img src="assets/stats_panel4.png" alt="Diagrama Pastel" width="400">
+    <img src="assets/stats_panel5.png" alt="Diagrama Cajas" width="400">
+</p>
+
+
+### Mapa interactivo
+
+![Mapa de casos](assets/mapa_casos.png)
+
+---
+
+
 ## Tecnologías y herramientas utilizadas
 
 - **Lenguaje:** R
@@ -40,24 +59,6 @@ Proyecto_Estadistica-main/
 │   └── rsconnect/            # Configuración de despliegue en shinyapps.io
 
 ```
-
----
-
-## Visualizaciones del sistema
-
-### Panel de estadísticas
-<p align="center">
-    <img src="assets/stats_panel1.png" alt="Panel estadístico" width="400">
-    <img src="assets/stats_panel2.png" alt="Diagrama de Barras" width="400">
-    <img src="assets/stats_panel3.png" alt="Diagrama de Barras por Sexo" width="400">
-    <img src="assets/stats_panel4.png" alt="Diagrama Pastel" width="400">
-    <img src="assets/stats_panel5.png" alt="Diagrama Cajas" width="400">
-</p>
-
-
-### Mapa interactivo
-
-![Mapa de casos](assets/mapa_casos.png)
 
 ---
 
