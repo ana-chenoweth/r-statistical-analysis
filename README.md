@@ -65,22 +65,22 @@ Proyecto_Estadistica-main/
 
 1. Clona el repositorio:
 
-\`\`\`bash
+```bash
 git clone https://github.com/ana-chenoweth/r-statistical-analysis.git
 cd r-statistical-analysis/Script
-\`\`\`
+```
 
 2. Abre el proyecto en RStudio y asegúrate de instalar los paquetes necesarios:
 
-\`\`\`r
+```r
 install.packages(c("shiny", "shinydashboard", "plotly", "leaflet", "dplyr", "tidyr", "readr", "shinythemes", "shinyWidgets"))
-\`\`\`
+```
 
 3. Ejecuta la aplicación:
 
-\`\`\`r
+```r
 shiny::runApp()
-\`\`\`
+```
 
 > Los archivos CSV originales no están incluidos en el repositorio debido a su tamaño. Puedes usar los archivos filtrados dentro de `Script/Data/` o generar los tuyos ejecutando `Filtro.R`.
 
