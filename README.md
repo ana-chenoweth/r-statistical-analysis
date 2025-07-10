@@ -29,7 +29,8 @@ Este proyecto es un tablero interactivo desarrollado en **R** con **Shiny** que 
 
 ## Estructura del proyecto
 
-\`\`\`
+```
+
 Proyecto_Estadistica-main/
 ├── Script/
 │   ├── App.R                 # Código principal de la app Shiny
@@ -37,23 +38,22 @@ Proyecto_Estadistica-main/
 │   ├── AuxMap.R              # Datos geográficos de municipios
 │   ├── Data/                 # Archivos CSV filtrados (no subidos al repo por tamaño)
 │   └── rsconnect/            # Configuración de despliegue en shinyapps.io
-\`\`\`
+
+```
 
 ---
 
 ## Visualizaciones del sistema
 
 ### Panel de estadísticas
+<p align="center">
+    <img src="assets/stats_panel1.png" alt="Panel estadístico" width="400">
+    <img src="assets/stats_panel2.png" alt="Diagrama de Barras" width="400">
+    <img src="assets/stats_panel3.png" alt="Diagrama de Barras por Sexo" width="400">
+    <img src="assets/stats_panel4.png" alt="Diagrama Pastel" width="400">
+    <img src="assets/stats_panel5.png" alt="Diagrama Cajas" width="400">
+</p>
 
-![Panel estadístico](assets/stats_panel1.png)
-
-![Diagrama de Barras](assets/stats_panel2.png)
-
-![Diagrama de Barras por Sexo](assets/stats_panel3.png)
-
-![Diagrama Pastel](assets/stats_panel4.png)
-
-![Diagrama Cajas](assets/stats_panel5.png)
 
 ### Mapa interactivo
 
