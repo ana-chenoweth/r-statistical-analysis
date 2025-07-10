@@ -49,3 +49,4 @@ po/*~
 rsconnect/
 
 Script/Data/*.csv
+.DS_Store
